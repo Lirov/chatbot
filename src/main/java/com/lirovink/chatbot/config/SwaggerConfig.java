@@ -1,4 +1,4 @@
-package com.handson.chatbot.config;
+package com.lirovink.chatbot.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

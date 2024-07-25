@@ -1,4 +1,4 @@
-package com.handson.chatbot.service;
+package com.lirovink.chatbot.service;
 
 import okhttp3.*;
 import org.springframework.stereotype.Service;
