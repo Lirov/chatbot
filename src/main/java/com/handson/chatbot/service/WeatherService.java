@@ -1,4 +1,4 @@
-package com.lirovink.chatbot.service;
+package com.handson.chatbot.service;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
